@@ -1,0 +1,10 @@
+{
+  "id": "confirm-new-note",
+  "name": "Confirm New Note",
+  "version": "0.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "Ask for confirmation before a new note is created (new-note commands and clicking links to non-existing notes).",
+  "author": "Ikuya Fukumoto",
+  "authorUrl": "https://github.com/ikuya",
+  "isDesktopOnly": false
+}
