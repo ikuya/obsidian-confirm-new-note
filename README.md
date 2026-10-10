@@ -53,6 +53,10 @@ Changes to the prefix list take effect after you reload Obsidian or turn the plu
 - Notes created without going through a link or a matching command (for example, buttons that call internal APIs directly) aren't guarded.
 - Only one dialog is shown at a time. If another creation is triggered while a dialog is open, that second request is cancelled.
 
+## Repository
+
+<https://github.com/ikuya/obsidian-confirm-new-note>
+
 ## License
 
 [MIT](LICENSE)
